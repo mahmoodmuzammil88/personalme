@@ -12,13 +12,22 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
   position: relative;
+  background-image: none;
   background: transparent;
 }
+
+/* div.container {
+  /* Background pattern from Toptal Subtle Patterns */
+  /* background-image: url("/anime2.gif"); */
+  /* height: 400px; */
+  /* width: 100%; */
+/* } */
 
 body::before {
   content: "";
   position: fixed;
   background: #010e1b;
+  /* background-image: url('/anime2.gif'); */
   background-size: cover;
   left: 0;
   right: 0;
