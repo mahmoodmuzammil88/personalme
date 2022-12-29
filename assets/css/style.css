@@ -16,13 +16,6 @@ body {
   background: transparent;
 }
 
-/* div.container {
-  /* Background pattern from Toptal Subtle Patterns */
-  /* background-image: url("/anime2.gif"); */
-  /* height: 400px; */
-  /* width: 100%; */
-/* } */
-
 body::before {
   content: "";
   position: fixed;
