@@ -27,7 +27,6 @@ body::before {
   content: "";
   position: fixed;
   background: #010e1b;
-  /* background-image: url('/anime2.gif'); */
   background-size: cover;
   left: 0;
   right: 0;
